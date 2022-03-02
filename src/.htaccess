@@ -1,0 +1,2 @@
+RewriteRule ^config.php$ - [R=404,L]
+RewriteRule ^update_database.php$ - [R=404,L]

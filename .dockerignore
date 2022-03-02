@@ -1,0 +1,5 @@
+.git/
+initdb/
+src/
+.gitignore
+docker-compose.yml
